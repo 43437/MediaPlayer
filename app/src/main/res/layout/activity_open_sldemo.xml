@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+tools:context=".OpenSLDemoActivity">
+
+<EditText
+    android:id="@+id/url"
+    android:text="/storage/emulated/0/Music/test.mp3"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+
+<Button
+    android:id="@+id/start"
+    android:onClick="onClicked"
+    android:text="start"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+
+<Button
+    android:id="@+id/stop"
+    android:onClick="onClicked"
+    android:text="stop"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+
+</LinearLayout>

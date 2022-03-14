@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="title_activity_native_window">NativeWindowActivity</string>
+    <string name="btn_native_window">Native Window</string>
+    <string name="btn_opengl_video">Opengl Video</string>
+    <string name="btn_opengl_graphics">Opengl Graphics</string>
+    <string name="btn_sdl">SDL</string>
+    <string name="btn_opensl">OpenSL</string>
+    <string name="btn_audiotrack">AudioTrack</string>
+    <string name="title_activity_sdl">SDLActivity</string>
+    <string name="title_activity_opengl_graphics_demo">OpenglGraphicsDemoActivity</string>
+    <string name="title_activity_open_sldemo">OpenSLDemoActivity</string>
+    <string name="title_activity_audio_track_demo">AudioTrackDemoActivity</string>
+    <string name="title_activity_ffmpeg_openg_gl">FFMpegOpengGLActivity</string>
+</resources>
